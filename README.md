@@ -1,3 +1,6 @@
+![haluk.png](https://cdn.dorahacks.io/static/files/194219baffa030de4db4cc246d798972.png)
+
+
 # Haluk Project
 
 The **Haluk Project** is an open-source, decentralized deployment platform designed for seamless management of ComfyUI workflows on GPU resources. By integrating with the BNB Chain, Haluk leverages blockchain-based incentives, ensuring a robust and efficient environment for both developers and node providers. This project is powered by the $HALUK token, offering a complete ecosystem for deployment, management, and incentivization.
